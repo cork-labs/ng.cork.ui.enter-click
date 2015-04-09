@@ -2,7 +2,7 @@
 @name ng.cork.ui.enter-click
 @description
 
-> Provides a directive that converts "Enter" keypress events into click events.
+> AngularjS component that converts "Enter" keypress events into click events.
 
 # Dependencies
 

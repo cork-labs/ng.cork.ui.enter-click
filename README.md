@@ -2,7 +2,7 @@
 [![Build Status: Linux](http://img.shields.io/travis/cork-labs/ng.cork.ui.enter-click/master.svg?style=flat-square)](https://travis-ci.org/cork-labs/ng.cork.ui.enter-click)
 [![Bower version](http://img.shields.io/bower/v/ng.cork.ui.enter-click.svg?style=flat-square)](https://github.com/cork-labs/ng.cork.ui.enter-click)
 
-> Provides a directive that converts "Enter" keypress events into click events
+> AngularjS component that converts "Enter" keypress events into click events
 
 
 ## Getting Started
