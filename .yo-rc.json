@@ -1,0 +1,28 @@
+{
+  "generator-nglib": {
+    "project.name": "ng.cork.ui.enter-click",
+    "project.description": "Provides a directive that converts "Enter" keypress events into click events",
+    "bower.id": "ng.cork.ui.enter-click",
+    "npm.id": "ng.cork.ui.enter-click",
+    "angular.module": "ng.cork.ui.enter-click",
+    "has.tpl": false,
+    "has.css": false,
+    "has.less": false,
+    "has.sass": false,
+    "has.docs": true,
+    "use.git": true,
+    "github.username": "cork-labs",
+    "github.reponame": "ng.cork.ui.enter-click",
+    "homepage.url": "https://github.com/cork-labs/ng.cork.ui.enter-click",
+    "docs.url": "http://jarvis.cork-labs.org/ng.cork.ui.enter-click/current/docs",
+    "bugs.url": "https://github.com/cork-labs/ng.cork.ui.enter-click/issues",
+    "license.name": "MIT",
+    "license.url": "http://cork-labs.mit-license.org/2015",
+    "author.name": "Cork Labs",
+    "author.email": "contact@cork-labs.org",
+    "author.url": "http://cork-labs.org",
+    "use.travis": true,
+    "travis.id": "cork-labs/ng.cork.ui.enter-click",
+    "repo.url": "git@github.com:cork-labs/ng.cork.ui.enter-click.git"
+  }
+}

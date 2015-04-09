@@ -1,0 +1,14 @@
+@ngdoc overview
+@name API Reference
+@description
+
+# ng.cork.ui.enter-click API Reference
+
+> Welcome to the **ng.cork.ui.enter-click** API reference.
+
+If you want to know how **ng.cork.ui.enter-click** works, checkout the {@link guide/ guide} and the {@link demos/ demos}.
+
+
+## Modules
+
+- **[ng.cork.ui.enter-click](#/api/ng.cork.ui.enter-click)** - Provides a directive that converts "Enter" keypress events into click events.

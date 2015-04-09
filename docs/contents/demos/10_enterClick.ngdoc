@@ -1,0 +1,39 @@
+@ngdoc overview
+@name cork-ui-enter-click
+@description
+
+## Directive: [cork-ui-enter-click](#/api/ng.cork.ui.enter-click.corkUiEnterClick)
+
+> Making an otherwise unfocusable element behave like a button.
+
+<doc:example module="app" height="200" deps="src/lib/ng.cork.ui.enter-click/enterClick.js">
+    <doc:source>
+        <script>
+        angular.module('app', ['ng.cork.ui.enter-click'])
+        .controller('exampleCtrl', [
+            '$scope',
+            '$window',
+            function ($scope,$window) {
+
+                $scope.click = function () {
+                    $window.alert('click!');
+                }
+            }
+        ]);
+        </script>
+        <style>
+        .container {
+           padding: 10px;
+        }
+        .form-control, .pseudo-button {
+            width: 300px;
+            margin-bottom: 20px;
+        }
+        </style>
+        <div data-ng-controller="exampleCtrl" class="container">
+            <input class="form-control" type="text" placeholder="use Tab to move focus to the pseudo-button" />
+            <p class="btn btn-danger btn-default pseudo-button" cork-ui-enter-click ng-click="click()">click me</p>
+            <input class="form-control" type="text" placeholder="use Shift+Tab to move focus back to the pseudo-button" />
+        </div>
+    </doc:source>
+</doc:example>
