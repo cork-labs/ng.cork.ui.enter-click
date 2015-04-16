@@ -1,5 +1,5 @@
 /**
- * ng.cork.ui.enter-click - v0.0.5 - 2015-04-09
+ * ng.cork.ui.enter-click - v0.0.6 - 2015-04-16
  * https://github.com/cork-labs/ng.cork.ui.enter-click
  *
  * Copyright (c) 2015 Cork Labs <http://cork-labs.org>
