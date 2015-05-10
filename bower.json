@@ -1,6 +1,6 @@
 {
   "name": "ng.cork.ui.enter-click",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Provides a directive that converts Enter keypress events into click events",
   "authors": [
     "Cork Labs <contact@cork-labs.org> (http://cork-labs.org)"
